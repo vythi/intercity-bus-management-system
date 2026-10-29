@@ -6,7 +6,7 @@ Dự án Đồ án Tích hợp: Hệ thống quản lý đặt vé xe khách và
 Hệ thống được thiết kế để quản lý các tuyến xe khách đường dài, lịch trình xuất bến, quản lý ghế ngồi và tích hợp thanh toán trực tuyến cho hành khách.
 
 * **Mô hình phát triển:** Scrum (Agile)
-* **Vai trò của tôi:** Tester | UI Designer
+* **Vai trò của tôi:** Business Analysis / UI Design
 
 ---
 
@@ -18,14 +18,11 @@ Tôi chịu trách nhiệm thiết kế giao diện giúp hành khách dễ dàn
 
 ---
 
-## Software Testing (My Contributions)
+## Business Analysis (My Contributions)
 
-* **Phạm vi :** Kiểm thử các chức năng trong trang của Admin (Người quản lý nhà xe)
-* **Kết quả :** Thiết kế & thực thi 210 Test Cases.
-* **Tài liệu :** Đã hoàn thiện Test Plan, Test Cases theo từng Sprint và Bug Report.
-  
-### Tài liệu kiểm thử
-Tài liệu được phân loại rõ ràng trong các thư mục:
-* `testing/test-plan/`: Kế hoạch kiểm thử.
-* `testing/test-cases/`: Danh sách Test Case cho từng đợt (Sprint 01, 02, 03).
-* `testing/test-report/`: Báo cáo tổng kết lỗi và chất lượng.
+- **Phân tích nghiệp vụ:** Xác định chức năng và luồng xử lý cho hệ thống tra cứu lịch trình, đặt vé, chọn ghế và thanh toán.
+- **Mô hình hóa hệ thống:** Xây dựng sơ đồ Use Case và Workflow trên Draw.io cho 17 chức năng.
+- **Tài liệu nghiệp vụ:** Mô tả quy tắc nghiệp vụ và phân quyền chức năng giữa khách hàng và nhà xe.
+
+---
+
